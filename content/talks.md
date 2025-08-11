@@ -1,7 +1,22 @@
-- **ICML 2025**, Vancouver – *Discovering Latent Causal Graphs from Spatiotemporal Data* (Poster)
-- **HDSI PhD Open House 2025**, UCSD – *Discovering Latent Causal Graphs* (Poster)
-- **Naval Surface Warfare Center (2024)** – *Discovering Mixtures of Structural Causal Models* (Invited Talk)
-- **Data-Driven Causal Inference Workshop 2024**, Arlington – (Poster)
-- **Halıcıoğlu Data Science Institute 2024**, UCSD – (Poster)
-- **Computer Science and Engineering 2023**, UCSD – *Finding Patient Zero* (Poster)
-- **SoCS 2022** – *Which MAPF Model Works Best for Automated Warehousing?* (Talk)
+
+### <span style="color:#de66f2; font-size:1.6em;">2025</span>
+- **July** — *Discovering Latent Causal Graphs from Spatiotemporal Data*  
+  Poster Presentation, *International Conference on Machine Learning 2025*, Vancouver, Canada.  
+- **March** — *Discovering Latent Causal Graphs from Spatiotemporal Data*  
+  Poster Presentation, *HDSI PhD Open House*, UCSD.
+
+### <span style="color:#de66f2; font-size:1.6em;">2024</span>
+- **October** — *Discovering Mixtures of Structural Causal Models*  
+  Invited (Virtual) Talk, *Naval Surface Warfare Center*.  
+- **August** — *Discovering Mixtures of Structural Causal Models*  
+  Poster Presentation, *2024 Data-Driven Causal Inference Workshop*, Arlington, Virginia.  
+- **July** — *Discovering Mixtures of Structural Causal Models*  
+  Poster Presentation, *Halıcoğlu Data Science Institute*, UCSD.
+
+### <span style="color:#de66f2; font-size:1.6em;">2023</span>
+- **April** — *Finding Patient Zero*  
+  Poster Presentation, *Computer Science and Engineering*, UCSD.
+
+### <span style="color:#de66f2; font-size:1.6em;">2022</span>
+- **July** — *Which MAPF Model Works Best for Automated Warehousing?*  
+  Virtual Talk, *International Symposium on Combinatorial Search*.

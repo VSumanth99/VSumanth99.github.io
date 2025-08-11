@@ -399,6 +399,12 @@ footer {
   transition: border-color var(--transition-fast), color var(--transition-fast);
 }
 
+#publications h3.conference-paper,
+#publications h3.workshop-paper {
+  color: #00CED1; /* Unified teal color for both */
+  border-bottom: 3px solid #00CED1; /* Matching teal color for underline */
+}
+
 #publications h3:hover {
   color: var(--accent-color);
   border-bottom-color: var(--accent-color);
