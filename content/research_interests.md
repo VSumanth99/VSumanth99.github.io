@@ -1,0 +1,5 @@
+- Causal discovery from complex data
+- Representation learning for physical systems
+- Agentic intelligence and autonomous tool use
+- Applications to weather & climate science
+- Formal mathematics and theorem proving

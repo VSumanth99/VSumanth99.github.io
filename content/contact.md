@@ -1,0 +1,3 @@
+- **Email**: [svarambally@ucsd.edu](mailto:svarambally@ucsd.edu)  
+- **Website**: [VSumanth99.github.io](https://VSumanth99.github.io)  
+- **GitHub**: [VSumanth99](https://github.com/VSumanth99)

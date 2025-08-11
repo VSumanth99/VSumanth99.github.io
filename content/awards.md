@@ -1,0 +1,9 @@
+- **Best M.Tech Thesis Award**, IIT Delhi
+- **IUSSTF-Viterbi Program (2021)** – Top 15 students nationwide
+- **Quadeye Excellence Scholarship (2021)** – Top 20 in IIT Delhi
+- **Department Rank** – 3rd in Mathematics and Computing Dual Degree
+- **Merit Prize** – Top 7% in multiple semesters at IIT Delhi
+- **NTSE Scholarship (2015)**, **KVPY Scholarship (2015 & 2016)**
+- **Indian National Informatics Olympiad (2016)** – Honorable Mention
+- **JEE Main (2017)** – All-India Rank 361/1.2M candidates
+- **Physics, Chemistry & Astronomy Olympiads (2016)** – Top 1% in Karnataka
