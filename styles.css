@@ -3,16 +3,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
 /* CSS Variables and Theme */
 :root {
-  --bg-gradient-start: #0e1e19;
-  --bg-gradient-end: #0e1e19;
-  --card-bg: #0c281f;
-  --primary-color: #7fad27;
-  --secondary-color: #ddd7bc;
-  --accent-color: #7fad27;
-  --text-color: #D4D4D4;
-  --muted-color: #6A9955;
-  --border-color: #3C3C3C;
-  --code-bg: #0f3329;
+  --bg-gradient-start: #1e1e1e;
+  --bg-gradient-end: #252526;
+  --card-bg: #2d2d30;
+  --primary-color: #569cd6;
+  --secondary-color: #dcdcaa; /* Light yellow */
+  --accent-color: #d7ba7d; /* Yellowish accent */
+  --text-color: #d4d4d4;
+  --muted-color: #808080;
+  --border-color: #3c3c3c;
+  --code-bg: #1e1e1e;
   --border-radius: 4px;
   --transition-fast: 0.2s ease-in-out;
 }
@@ -68,7 +68,7 @@ nav ul {
 nav a {
   font-family: 'Poppins', sans-serif;
   text-decoration: none;
-  color: #f2de66;
+  color: var(--accent-color);
   font-weight: 600;
   padding: 8px 8px;
   box-shadow: 0 4px 8px rgba(0,0,0,0.3);
@@ -78,8 +78,8 @@ nav a {
 }
 
 nav a:hover {
-  background: rgba(242,222,102,0.2);
-  color: #7f7ea8;
+  background: rgba(181,206,168,0.2);
+  color: var(--accent-color);
   transform: translateY(-2px) rotateX(3deg) rotateY(1deg);
   box-shadow: 0 6px 12px rgba(0,0,0,0.5);
 }
@@ -111,8 +111,8 @@ main section h2 {
   font-family: 'Poppins', sans-serif;
   font-size: 3rem;
   margin-bottom: 15px;
-  color: #f2de66;
-  border-bottom: 2px solid #f2de66;
+  color: var(--accent-color);
+  border-bottom: 2px solid var(--accent-color);
   padding-bottom: 5px;
   transform-style: preserve-3d;
   transform: rotateX(1deg);
@@ -137,7 +137,7 @@ a.inline-link:visited {
 }
 
 a.inline-link:hover {
-  color: var(--primary-color);
+  color: var(--accent-color);
 }
 
 /* Markdown content links */
@@ -150,7 +150,7 @@ main section a:visited {
   color: var(--muted-color);
 }
 main section a:hover {
-  color: var(--primary-color);
+  color: var(--accent-color);
 }
 
 /* Scoped markdown-content links */
@@ -163,7 +163,7 @@ main section a:hover {
   color: var(--muted-color);
 }
 #markdown-content a:hover {
-  color: var(--primary-color);
+  color: var(--accent-color);
 }
 
 
@@ -400,6 +400,6 @@ footer {
 }
 
 #publications h3:hover {
-  color: var(--primary-color);
-  border-bottom-color: var(--primary-color);
+  color: var(--accent-color);
+  border-bottom-color: var(--accent-color);
 }
