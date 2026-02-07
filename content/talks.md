@@ -1,5 +1,7 @@
 
 ### <span style="color:#de66f2; font-size:1.6em;">2025</span>
+- **December** — *Hilbert: Recursively Building Formal Proofs with Informal Reasoning*  
+  Oral Presentation, *NeurIPS 2025 MATH-AI Workshop*.  
 - **October** — *Hilbert: Recursively Building Formal Proofs with Informal Reasoning*  
   Invited (Virtual) Talk, *Amazon Web Services*. Hosted by Dr. Soonho Kong.  
 - **October** — *Hilbert: Recursively Building Formal Proofs with Informal Reasoning*  
